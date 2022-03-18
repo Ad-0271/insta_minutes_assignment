@@ -1,4 +1,4 @@
-# insta_minutes_assignment
+# instaminutes_assignment
 
 ## Language / Framework used:
 This assignment is solved using NodeJS language. 
