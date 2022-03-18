@@ -1,10 +1,10 @@
 # insta_minutes_assignment
 
 ## Language/Frameword used:
-This assignment is created using NodeJS. The assignment contains two files one is index.js and another is events.js.
-The events.js file exports the array of all the 10 events.
+This assignment is created using NodeJS language. 
 
 ## Approach to solve:
+The assignment contains two files one is index.js and another is events.js. The events.js file exports the array of all the 10 events.
 Solved the assignment by using node-cron package. Node-cron is a job scheduling package which schedules a job at given time and date.
 I'm looping over events only once and assigned a function to trigger at given dateTime of event using node-cron package.
 
