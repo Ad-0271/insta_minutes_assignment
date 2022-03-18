@@ -1,4 +1,4 @@
-# insta_minutes_assignment
+### insta_minutes_assignment
 
 This assignment is created using NodeJS. The assignment contains two files one is index.js and another is events.js.
 The events.js file exports the array of all the 10 events.
